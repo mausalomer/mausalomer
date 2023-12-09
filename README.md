@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mauricio Salome</h1>
 <h3 align="center">A passionate tech enthusiast with a blend of creativity, critical thinking, and strong social skills, dedicated to contributing innovation, community vibes, and dynamic problem-solving in the tech realm.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...](https://gifdb.com/images/high/coding-skills-loading-dk68v8z0hevjpuiv.gif">
 - 🔭 I’m currently working on **Chat-Bot Implementation**
 
 - 🌱 I’m currently learning **JavaScript, React**
